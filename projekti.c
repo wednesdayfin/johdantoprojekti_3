@@ -7,10 +7,8 @@
 #include <BlynkSimpleWiFiNINA.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-//char ssid[] = "4G-Gateway-E6F8";
-//char pass[] = "EE5NTMT4TGB";
-char ssid[] = "HevomPerse";
-char pass[] = "nowo3680";
+char ssid[] = "4G-Gateway-E6F8";
+char pass[] = "EE5NTMT4TGB";
 
 BlynkTimer timer;
 
